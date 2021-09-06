@@ -26,13 +26,6 @@ Use the number keys on the top row of your keyboard to change the game's speed.
 - 8 = 3840 FPS
 - 9 = 4860 FPS
 
-**Download:**
-
-- [Download](https://dl.dropboxusercontent.com/s/p3mt9cv9ypv0kmy/increasedFPS.zip)
-
-**Source:**
-
-
 **Installation:**
 
 - Open the game
