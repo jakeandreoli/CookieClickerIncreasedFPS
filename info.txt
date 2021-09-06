@@ -1,0 +1,12 @@
+{
+	"Name": "Increased FPS",
+	"ID": "increasedfps",
+	"Author": "AerHx",
+	"Description": "Use numbers 1-9 to control FPS to speed up cookie production. Please note: Higher FPS may cause instability and freezing.",
+	"ModVersion": 1.2,
+	"GameVersion": 2.04,
+	"Date": "05/09/2021",
+	"Dependencies": [],
+	"Disabled": 1,
+	"AllowSteamAchievs": 1
+}
